@@ -1,7 +1,7 @@
 # MOOSMdata
 ELectricity, Traffic, Solar-AL and Exchange-rate can be downloaded from \url{http://github.com/laiguokun/multivariate-time-series-data}
 
-PeMSD7 download from \url{https://github.com/jswang/stgat\_traffic\_prediction/blob/main/dataset/PeMSD7\_V\_228.csv}
+PeMSD7 download from \url{https://github.com/jswang/stgat_traffic_prediction/tree/main/dataset}
 
 Protein can be downloaded from \url{https://github.com/TengDan/Fast-Frequent-Directions-SpFD/blob/master/protein.mat}
 
